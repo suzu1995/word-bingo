@@ -8,5 +8,5 @@
 $ git clone https://github.com/suzu1995/word-bingo.git
  
 ## Usage
-On the terminal
+On the terminal \
   $ php bingo.php
